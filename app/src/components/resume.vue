@@ -75,7 +75,7 @@
       <div
         class="d-flex flex-wrap flex-items-stretch flex-justify-center container-xl gutter-sm-condensed gutter-md mx-auto p-responsive">
         <article class="flex-shrink-0 col-12 col-sm-6 col-md-4 col-lg-3 py-2 py-md-3">
-          <a href="./static/MYT-reasarch-co.pdf"
+          <a href="./static/MYT-reasarch-co.pdf" target="_blank"
              class="Bump-link customer-story-card bg-white rounded-1 px-3 pt-3 no-underline d-flex flex-column position-relative height-full">
             <div class="customer-story-card-hero position-relative rounded-1"
                  style="background-image: url(https://i.ibb.co/Yp3csFr/myt.jpg);">
@@ -102,7 +102,7 @@
         </article>
 
         <article class="flex-shrink-0 col-12 col-sm-6 col-md-4 col-lg-3 py-2 py-md-3">
-          <a href="./static/Younghustla-co.pdf"
+          <a href="./static/Younghustla-co.pdf" target="_blank"
              class="Bump-link customer-story-card bg-white rounded-1 px-3 pt-3 no-underline d-flex flex-column position-relative height-full">
             <div class="customer-story-card-hero position-relative rounded-1"
                  style="background-image: url(https://i.ibb.co/bsTV2DS/young.jpg);">
@@ -129,7 +129,7 @@
         </article>
 
         <article class="flex-shrink-0 col-12 col-sm-6 col-md-4 col-lg-3 py-2 py-md-3">
-          <a href="./static/Media360.pdf"
+          <a href="./static/Media360.pdf" target="_blank"
              class="Bump-link customer-story-card bg-white rounded-1 px-3 pt-3 no-underline d-flex flex-column position-relative height-full">
             <div class="customer-story-card-hero position-relative rounded-1"
                  style="background-image: url(https://i.ibb.co/HtGRK4z/media.jpg);">
